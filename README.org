@@ -1,5 +1,6 @@
 * TODO 2022
 - we'll have room with 40 seats around tables, plus 40 chairs around the edge of the room
+  (east fork ballroom d3)
 
 ** content additions
 - code of conduct
